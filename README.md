@@ -4,7 +4,7 @@
 
 **Live site:** [https://peanutbutter.fitness](https://peanutbutter.fitness)
 
-**Repository:** [github.com/EXL-1/Running-Hackathon](https://github.com/EXL-1/Running-Hackathon) (default branch: `main`)
+**Repository:** [github.com/LLLA-hackathon/Running-Hackathon](https://github.com/LLLA-hackathon/Running-Hackathon) (default branch: `main`)
 
 Set an aim pace before you head out. Two voice modes push you along:
 
